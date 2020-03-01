@@ -1,0 +1,6 @@
+framework module Pods_ios_COBSCComp182P_021 {
+  umbrella header "Pods-ios-COBSCComp182P-021-umbrella.h"
+
+  export *
+  module * { export * }
+}
